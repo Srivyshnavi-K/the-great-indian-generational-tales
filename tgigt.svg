@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="TGIGT logo">
+  <rect width="256" height="256" fill="#ffffff"/>
+  <text
+    x="50%"
+    y="50%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="78"
+    font-weight="700"
+    fill="#0a0a0a"
+    letter-spacing="0.08em"
+  >
+    TGIGT
+  </text>
+</svg>
